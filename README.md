@@ -8,3 +8,5 @@ This is my first hello world of using GitHub
 ————————————————————————————————————
 
 这是创建了分支之后增加的内容
+
+This is another new line
